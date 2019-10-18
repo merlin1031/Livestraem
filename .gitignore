@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# ignore SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
